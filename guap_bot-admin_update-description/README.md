@@ -33,7 +33,9 @@
 
 4. Установите зависимости из файла `requirements.txt`:
 
+  ```
   pip install -r requirements.txt
+  ```
 
 
 5. Создайте файл `.env` и пропишите в нем настройки:
