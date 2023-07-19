@@ -1,4 +1,4 @@
-# guap_bot feat tihomirov-nick
+# SUAI bot feat tihomirov-nick
 
 ## Описание
 
