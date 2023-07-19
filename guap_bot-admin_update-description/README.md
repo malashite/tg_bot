@@ -1,4 +1,4 @@
-# guap_bot FEAT tihomirov-nick
+# guap_bot feat tihomirov-nick
 
 необходимо создать .env и закинуть в директорию бота
 в .env прописать настройки формата:
